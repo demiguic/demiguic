@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 -->
 - 💻 Computer Engineering Student - Third Semester
 - 📫 How to reach me: ademirjr.contato@outlook.com
+- :house_with_garden: I’m from Brazil.
 - 😄 Pronouns: he/his
