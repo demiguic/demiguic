@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ademirjr.contato@outlook.com
 - :house_with_garden: I’m from Brazil.
 - 😄 Pronouns: he/him/his
+
+<a href= "https://www.linkedin.com/in/ademir-guimarães-da-costa-junior-306185216/">
