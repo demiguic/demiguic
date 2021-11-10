@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ademirjr.contato@outlook.com
 - :house_with_garden: I’m from Brazil.
 - 😄 Pronouns: he/him/his
+
+<a href="https://www.instagram.com/demi_guic/" alt="Instagram" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/demi_guic/">
+  
+<a href="https://www.linkedin.com/in/ademir-guimarães-da-costa-junior-306185216/" alt="Instagram" target="_blank"> 
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  </a>
