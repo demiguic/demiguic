@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </a>
 
 ### Estou aprendendo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 
 
 
