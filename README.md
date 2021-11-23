@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ademir-guimarães-da-costa-junior-306185216/" alt="Instagram" target="_blank"> 
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a>
+
+      ### Estou aprendendo
