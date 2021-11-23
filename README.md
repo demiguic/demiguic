@@ -25,4 +25,6 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a>
 
-### Estou aprendendo
+### Estou aprendendo:
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
