@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   </a>
 
 ### Estou aprendendo:
-      <i class="devicon-java-plain colored"></i>
+<i class="devicon-java-plain colored"></i>
+
 
 
