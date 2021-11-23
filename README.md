@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ademir-guimarães-da-costa-junior-306185216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+### Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+
 <div>
 <a href="https://github.com/demiguic">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demiguic&layout=compact&langs_count=7&theme=dracula"/>
