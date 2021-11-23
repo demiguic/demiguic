@@ -26,7 +26,8 @@ Here are some ideas to get you started:
   </a>
 
 ### Estou aprendendo:
-<i class="devicon-java-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+
 
 
 
