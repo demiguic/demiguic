@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - :house_with_garden: I’m from Brazil.
 - 😄 Pronouns: he/him/his
 
-<div>
+<div align="center">
 <a href="https://github.com/demiguic">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demiguic&layout=compact&langs_count=7&theme=dracula"/>
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=demiguic&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
