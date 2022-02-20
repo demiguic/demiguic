@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-- 💻 Computer Engineering Student - Third Semester
+- 💻 Computer Engineering Student - 4th Semester
 - 📫 How to reach me: ademirjr.contato@outlook.com
 - :house_with_garden: I’m from Brazil.
 - 😄 Pronouns: he/him/his
