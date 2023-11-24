@@ -1,7 +1,8 @@
 ## Hello there! My name is Ademir 👋
 ### Welcome to my github profile!
 
-- 💻 Computer Engineering Student - 7th Semester
+- 💻 Computer Engineering Student - 8th Semester
+- 🤓 I currently work with data analysis and representation, as well as application development.
 - 📫 How to reach me: ademirjr.contato@outlook.com
 - :house_with_garden: I’m from Brazil.
 - 😄 Pronouns: he/him/his
