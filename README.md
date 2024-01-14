@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ademir Guimarães</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 <img align="right" alt="Bilbo" height="200" src="https://giffiles.alphacoders.com/213/213162.gif">
 
 
