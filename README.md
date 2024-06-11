@@ -3,9 +3,9 @@
 <img align="right" alt="Bilbo" height="200" src="https://giffiles.alphacoders.com/213/213162.gif">
 
 
-- 🔭 I’m currently working on **Data Analysis and Representation and I'm actively involved in the development of mobile applications.**
+- 🔭 🔭 I’m currently working on **Data Analysis and Representation**, actively involved in the development of **mobile applications**, and conducting research in **Computer Vision using deep learning**.
 
-- 🌱 I’m currently learning **Django, ReactJS, React Native**
+- 🌱  I’m currently learning Machine and Deep Learning using **Keras and Pytorch**.
 
 - 📫 How to reach me **ademirjr.contato@outlook.com**
 
