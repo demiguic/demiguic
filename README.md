@@ -1,7 +1,10 @@
-<h1>👋 Olá! Eu sou Ademir Guimarães</h1>
-<p>Sou Engenheiro da Computação, formado pela Universidade do Estado do Amazonas (UEA), e atualmente estou cursando uma especialização em Ciência de Dados, também pela UEA. Tenho desenvolvido pesquisas e projetos nas áreas de <b>Ciência de Dados</b> e <b>Inteligência Artificial</b>, e estou sempre ansioso para colaborar com a comunidade!</p>
+# 👋 Olá! Eu sou Ademir Guimarães</h1>
 
-<img align="right" alt="Bilbo" height="200" src="https://giffiles.alphacoders.com/213/213162.gif">
+Sou Engenheiro da Computação, formado pela Universidade do Estado do Amazonas (UEA), e atualmente estou cursando uma especialização em Ciência de Dados, também pela UEA. Tenho desenvolvido pesquisas e projetos nas áreas de <b>Ciência de Dados</b> e <b>Inteligência Artificial</b>, e estou sempre ansioso para colaborar com a comunidade!
+
+<p align="right">
+  <img src="https://giffiles.alphacoders.com/213/213162.gif" height="200" alt="Bilbo GIF">
+</p>
 
  ## 🧠 Sobre mim
 
@@ -23,7 +26,7 @@
    - ASP.NET Core, Entity Framework Core
    - React Native, Node.js
 
-## Contato
+## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/ademir-guimaraes/)
 - 📧 ademirjr.contato@outlook.com
