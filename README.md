@@ -1,4 +1,4 @@
-<h1>Hi 👋 Olá! Eu sou Ademir Guimarães</h1>
+<h1>👋 Olá! Eu sou Ademir Guimarães</h1>
 <p>Sou Engenheiro da Computação, formado pela Universidade do Estado do Amazonas (UEA), e atualmente estou cursando uma especialização em Ciência de Dados, também pela UEA. Tenho desenvolvido pesquisas e projetos nas áreas de <b>Ciência de Dados</b> e <b>Inteligência Artificial</b>, e estou sempre ansioso para colaborar com a comunidade!</p>
 
 <img align="right" alt="Bilbo" height="200" src="https://giffiles.alphacoders.com/213/213162.gif">
