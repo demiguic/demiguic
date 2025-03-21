@@ -27,6 +27,3 @@
 
 - [LinkedIn](https://www.linkedin.com/in/ademir-guimaraes/)
 - 📧 ademirjr.contato@outlook.com
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demiguic&show_icons=true&theme=radical&locale=en&layout=compact" alt="demiguic" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demiguic&show_icons=true&theme=radical&locale=en" alt="demiguic" /></p>
