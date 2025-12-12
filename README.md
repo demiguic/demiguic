@@ -1,19 +1,31 @@
 # 👋 Olá! Eu sou Ademir Guimarães</h1>
 
-Sou Engenheiro da Computação, formado pela Universidade do Estado do Amazonas (UEA), e atualmente estou cursando uma especialização em Ciência de Dados, também pela UEA. Tenho desenvolvido pesquisas e projetos nas áreas de <b>Ciência de Dados</b> e <b>Inteligência Artificial</b>, e estou sempre ansioso para colaborar com a comunidade!
+Sou **Engenheiro de Computação** (UEA), com experiência em desenvolvimento de software, aplicações web, mobile e soluções de dados. Atualmente atuo como Engenheiro de Aplicações e desenvolvo projetos na área de **C#, Python, .NET**.
 
 <p align="right">
   <img src="https://giffiles.alphacoders.com/213/213162.gif" height="200" alt="Bilbo GIF">
 </p>
 
- ## 🧠 Sobre mim
+## 🔭 Atualmente trabalhando com:  
+- Desenvolvimento backend com **C# / .NET**
+- APIs REST e lógica de negócios
+- Automação de scraping com Python (Selenium)
+- Dashboards com **Power BI** e **Looker Studio**
+- 
 
-- 🤖 Tenho interesse especial em Ciência de Dados e Inteligência Artificial, com foco em Visão Computacional.
-- 🛠️ Gosto de trabalhar com projetos práticos, explorando dados e desenvolvendo soluções inteligentes.
+## 📌 Projetos em destaque
 
-## 🚀 Projetos
+### ⭐ **Aequitas-Core**
+Sistema financeiro em **C# .NET** para cálculo de P&L e métricas de portfólio, com integração de APIs e interface web via Blazor.  
+👉 https://github.com/demiguic/aequitas-core
 
-- *Em breve!* (👷‍♂️ Em construção!)
+## 💻 Tecnologias & Ferramentas
+
+| Linguagens | Backend | Frontend | Dados |
+|------------|---------|----------|-------|
+| 🧠 Python | 🛠 C# / .NET | ⚛️ React Native | 📊 Power BI |
+| JavaScript | ASP.NET Core | Blazor | Looker Studio |
+| SQL | Entity Framework | | Pandas / NumPy |
 
 ## 🧰 Habilidades técnicas
 
@@ -26,7 +38,8 @@ Sou Engenheiro da Computação, formado pela Universidade do Estado do Amazonas 
    - ASP.NET Core, Entity Framework Core
    - React Native, Node.js
 
-## 📫 Contato
+## 📫 Vamos conectar?
 
-- [LinkedIn](https://www.linkedin.com/in/ademir-guimaraes/)
-- 📧 ademirjr.contato@outlook.com
+📍 Manaus, AM • Brasil  
+💼 Linkedin: https://www.linkedin.com/in/ademirguimaraes  
+📩 Email: ademirjr.contato@outlook.com
